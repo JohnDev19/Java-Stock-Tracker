@@ -3,7 +3,7 @@
 ## Description
 Stock Tracker Server is a simple Java-based web application that provides a mock stock tracking interface.
 
-![Screenshot](.jpg)
+![Screenshot](IMG_20241103_115443.jpg)
 
 ## Features
 - Simple web interface for querying stock information
